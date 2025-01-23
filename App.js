@@ -71,7 +71,6 @@ export default function App() {
 const styles = StyleSheet.create({
   rootView: {
     flex: 1,
-    alignItems: "center",
   },
   backgroundImage: {
     flex: 1,
