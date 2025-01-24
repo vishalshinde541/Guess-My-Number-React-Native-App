@@ -3,7 +3,6 @@ import {
   View,
   StyleSheet,
   Alert,
-  Text,
   useWindowDimensions,
   KeyboardAvoidingView,
   ScrollView,

@@ -15,9 +15,6 @@ function GameOverScreen({ numberOfRounds, userNumber, onStartNewGame }) {
 
   let imageSize = 300;
 
-  console.log(width);
-  console.log(height);
-
   if (width < 380) {
     imageSize = 150;
   }
